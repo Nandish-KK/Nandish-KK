@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Nandish and welcome to my repo.
-- 👀 I’m interested in Electronics design,Radio's and 3D modelling.
-- 📫 You can reach me at my email "nandishkk@thesynthscope.com"
 
-
-Hey there 👋
-I'm a PCB Designer , who's passionate about electronic designs and anything Technical.
+I'm a PCB Designer, with interests crossing multiple domains. Check out my blog at "![Thesynthscope] (https://thesynthscope.com/blog/)".
+-You can reach me at my email "nandishkk@thesynthscope.com"
 
 
 #Skills
