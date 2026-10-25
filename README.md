@@ -1,5 +1,5 @@
 
-I'm a PCB Designer, with interests crossing multiple domains. Check out my blog at "[Thesynthscope](https://thesynthscope.com/blog/)"
+I'm a PCB Designer, with interests crossing multiple domains. Check out my blog at [thesynthscope.com/blog](https://thesynthscope.com/blog/)
 
 -You can reach me at my email "nandishkk@thesynthscope.com"
 
